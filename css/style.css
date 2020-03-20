@@ -1,0 +1,38 @@
+/* TODO: Make it awesome */
+
+body {
+    background-color: bisque;
+}
+h1 { 
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    text-align: center;
+    color: teal;
+}
+ul {
+    font-size: x-large;
+    padding: 20px;
+}
+li {
+    display: inline;
+    padding: 10px;
+}
+section{
+    display: inline;
+}
+table{
+    border: black double;
+}
+th{
+    padding: 10px;
+
+}
+td {
+    border: black double;
+}
+footer {
+    height: 300px;
+}
+p {
+   text-align: center;
+}
