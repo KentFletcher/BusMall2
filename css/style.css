@@ -1,0 +1,57 @@
+/* TODO: Make it awesome */
+
+body {
+    background-color: bisque;
+    text-align: center;
+}
+h1 { 
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    text-align: center;
+    color: teal;
+}
+ul {
+    font-size: x-large;
+    padding: 20px;
+}
+li {
+    padding: 10px;
+}
+header {
+    background-color: cornsilk;
+}
+table{
+    border: black double;
+}
+th{
+    padding: 30px;
+
+}
+
+img {
+    width: 100px;
+    padding: 10px;
+}
+
+td {
+    border: black double;
+    padding: 20px;
+}
+
+th {
+    border: black double;
+    padding: 20px;
+}
+footer {
+    height: 300px;
+    padding-top: 100px;
+    background-color: cornsilk;
+}
+fieldset {
+    font-size: 30px;
+    color: cornflowerblue;
+}
+
+a {
+    display: inline-block;
+}
