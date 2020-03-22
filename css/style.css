@@ -2,6 +2,7 @@
 
 body {
     background-color: bisque;
+    text-align: center;
 }
 h1 { 
     font-size: 50px;
@@ -14,25 +15,43 @@ ul {
     padding: 20px;
 }
 li {
-    display: inline;
     padding: 10px;
 }
-section{
-    display: inline;
+header {
+    background-color: cornsilk;
 }
 table{
     border: black double;
 }
 th{
-    padding: 10px;
+    padding: 30px;
 
 }
+
+img {
+    width: 100px;
+    padding: 10px;
+}
+
 td {
     border: black double;
+    padding: 20px;
+}
+
+th {
+    border: black double;
+    padding: 20px;
 }
 footer {
     height: 300px;
+    padding-top: 100px;
+    background-color: cornsilk;
 }
-p {
-   text-align: center;
+fieldset {
+    font-size: 30px;
+    color: cornflowerblue;
+}
+
+a {
+    display: inline-block;
 }
